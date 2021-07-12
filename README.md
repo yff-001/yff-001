@@ -1,3 +1,5 @@
 ## Hi there I'm Yufeng 👋
 
-I'm an electronics enthusiast who has formal training in electrical engineering. I'm passion about building autonomous machines. 
+I was trained as an electrical engineer.
+
+I'm interested in autonomous vehicles and scientific visualization.
